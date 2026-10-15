@@ -1,0 +1,11 @@
+# Everything UE generates is build output: the scripts in Scripts/ are the source of truth.
+Content/
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+SourceArt/
+*.uasset
+*.umap
+Build/
+concepts/

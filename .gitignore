@@ -1,0 +1,8 @@
+__pycache__/
+
+# cooked v2 content: build output of unreal/Scripts/rebuild_all.py, never committed
+assets/
+*.uasset
+*.utoc
+*.ucas
+*.pak

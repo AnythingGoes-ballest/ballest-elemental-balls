@@ -1,0 +1,9 @@
+Elemental Balls: credits
+
+Concept art: Aarib (Void Crystal, Frost and Toxic Current).
+
+The balls' looks are the concept pictures projected onto the ball by unreal/Scripts/project_concepts.py. The materials,
+the glass shell mesh and the model files are made by the scripts in unreal/Scripts/ (Unreal Engine 5.8.3, Python with
+numpy, scipy and Pillow). No third-party assets are included.
+
+models/sphere.glb is this plugin's own 1 m sphere.
